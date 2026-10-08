@@ -1,0 +1,2 @@
+method,rank,total_parameters,trainable_parameters,trainable_percent,validation_em,validation_f1,validation_blank_percent,test_em,test_f1,test_blank_percent,training_time_seconds,peak_gpu_memory_gb,energy_kwh,co2_kg,post_training_loss
+LoRA r=16,16,61096448,589824,0.9653981848502878,47.65342960288809,62.18595275343167,0.0,46.04966139954853,58.90428814310222,0.0,387.97274292200007,1.1898412704467773,0.0082949896715162,0.0039051401225254,0.10090313851833344

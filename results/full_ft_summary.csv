@@ -1,0 +1,2 @@
+method,rank,total_parameters,trainable_parameters,trainable_percent,validation_em,validation_f1,validation_blank_percent,test_em,test_f1,test_blank_percent,training_time_seconds,peak_gpu_memory_gb,energy_kwh,co2_kg,post_training_loss
+Full Fine-Tuning,,60506624,60506624,100.0,48.97713598074609,64.06812936649281,0.0,46.16252821670429,59.08616718569998,0.0,401.9144770959997,2.0099339485168457,0.0087399854856421,0.0030522319958682,0.12322108447551727

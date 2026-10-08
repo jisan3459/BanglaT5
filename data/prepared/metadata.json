@@ -1,0 +1,11 @@
+{
+  "model_name": "csebuetnlp/banglat5_small",
+  "max_source_length": 768,
+  "max_target_length": 96,
+  "seed": 42,
+  "rows": {
+    "train": 3035,
+    "validation": 831,
+    "test": 886
+  }
+}
